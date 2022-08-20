@@ -1,0 +1,9 @@
+functions of array  
+    foreach
+    map
+    filter
+    slice
+    splice
+    findindex
+    find
+    (reduce)
